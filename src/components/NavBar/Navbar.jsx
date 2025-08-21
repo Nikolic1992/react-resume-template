@@ -1,4 +1,4 @@
-import "./NavBar.css";
+import "./Navbar.css";
 import logo from "../../assets/logo.svg";
 import underline from "../../assets/nav_underline.svg";
 import { useRef, useState } from "react";
